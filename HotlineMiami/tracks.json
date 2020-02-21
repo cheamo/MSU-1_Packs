@@ -1,0 +1,377 @@
+{
+    "$schema": "https://raw.githubusercontent.com/qwertymodo/msupcmplusplus/master/configs/schema#",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "pack": "Hotline Miami 1 & 2 OST",
+	"url": "https://store.steampowered.com/app/219152/Hotline_Miami_Soundtrack/",
+	"url2": "https://store.steampowered.com/app/355890/Hotline_Miami_2_Wrong_Number__Soundtrack/",
+    "normalization": -19,
+    "output_prefix": "hotlineMiami",
+	"sample_rate": 44100,
+    "tracks": [
+		{
+			"track_number": 1,
+            "title": "Opening Theme",
+			"file": "HM1\\Jasper Byrne - Miami.mp3",
+			"trim_start": 892369,
+			"trim_end": 1598560,
+			"fade_out": 225000
+		},
+		{
+            "track_number": 2,
+            "title": "Light World Overworld",
+			"file": "HM1\\Scattle - It's Safe Now.mp3",
+			"loop": 573553,
+			"trim_end": 6346641
+		},
+		{
+            "track_number": 3,
+            "title": "Rain State Overworld",
+			"file": "HM2\\25 Rust.flac",
+			"trim_start": 3632910,
+			"loop": 3632910,
+			"trim_end": 6550512
+		},
+		{
+            "track_number": 4,
+            "title": "Bunny Overworld",
+			"file": "HM2\\05 She Meditates.flac",
+			"trim_start": 639534,
+			"loop": 1176515,
+			"trim_end": 3818548
+		},
+		{
+            "track_number": 5,
+            "title": "Lost Woods",
+			"file": "HM2\\01 Untitled.flac",
+			"trim_start": 2061300,
+			"loop": 2570910,
+			"trim_end": 4160853
+		},
+		{
+            "track_number": 6,
+            "title": "Prologue",
+			"file": "HM1\\Coconuts - Silver Lights.mp3",
+			"loop": 1665596,
+			"trim_end": 3875208
+		},
+		{
+            "track_number": 7,
+            "title": "Kakariko",
+			"file": "HM2\\18 Around.flac",
+			"trim_start": 3419129,
+			"loop": 3419129,
+			"trim_end": 6367526
+		},
+		{
+            "track_number": 8,
+            "title": "Portal",
+			"file": "Sounds\\Rewind.wav",
+			"trim_start": 40566,
+			"trim_end": 239808,
+			"normalization": -27
+		},
+		{
+            "track_number": 9,
+            "title": "Dark World Overworld",
+			"file": "HM2\\03 Blizzard.flac",
+			"trim_end": 4226613
+		},
+		{
+            "track_number": 10,
+            "title": "Pull Pedestal",
+			"file": "HM1\\Jasper Byrne - Miami.mp3",
+			"trim_start": 2674735,
+			"trim_end": 3131479,
+			"fade_out": 130000
+		},
+		{
+            "track_number": 11,
+            "title": "File Select",
+			"file": "HM1\\Sun Araw - Horse Steppin.mp3",
+			"loop": 1400395,
+			"trim_end": 8377971
+		},
+		{
+            "track_number": 12,
+            "title": "Guards Summoned",
+			"file": "HM2\\42 Acid Spit.flac",
+			"loop": 816,
+			"trim_end": 2321177
+		},
+		{
+            "track_number": 13,
+            "title": "Dark Death Mountain",
+			"file": "HM2\\36 Richard.flac",
+			"trim_start": 1113676,
+			"loop": 1472914,
+			"trim_end": 4328563
+		},
+		{
+            "track_number": 14,
+            "title": "Minigame",
+			"file": "HM1\\Scattle - To The Top.mp3",
+			"loop": 2252,
+			"trim_end": 2607464
+		},
+		{
+            "track_number": 16,
+            "title": "Castle",
+			"file": "HM1\\Perturbator - Miami Disco.mp3",
+			"loop": 380194,
+			"trim_end": 7612552
+		},
+		{
+            "track_number": 17,
+            "title": "Light World Dungeon",
+			"file": "HM1\\Eirik Suhrke - A New Morning.mp3",
+			"loop": 34224,
+			"trim_end": 6288740
+		},
+		{
+            "track_number": 18,
+            "title": "Cave",
+			"file": "HM1\\Scattle - Flatline.mp3",
+			"trim_start": 1273519,
+			"loop": 1273519,
+			"trim_end": 5504662
+		},
+		{
+            "track_number": 19,
+            "title": "Boss Victory",
+			"file": "HM1\\Jasper Byrne - Miami.mp3",
+			"trim_start": 2674735,
+			"trim_end": 3131479,
+			"fade_out": 130000
+		},
+		{
+            "track_number": 20,
+            "title": "Sanctuary",
+			"file": "HM2\\09 Guided Meditation.flac",
+			"trim_start": 493901,
+			"loop": 493901,
+			"trim_end": 1916246
+		},
+		{
+            "track_number": 21,
+            "title": "Boss",
+			"file": "HM1\\M_O_O_N - Release.mp3",
+			"trim_start": 1373697,
+			"loop": 2354376,
+			"trim_end": 4314394,
+			"normalization": -17
+		},
+		{
+            "track_number": 22,
+            "title": "Dark World Dungeon",
+			"file": "HM2\\06 Dust.flac",
+			"loop": 4234402,
+			"trim_end": 12278274
+		},
+		{
+            "track_number": 23,
+            "title": "Shop/Fortune Teller",
+			"file": "HM1\\El Huervo - Daisuke.mp3",
+			"trim_start": 507008,
+			"loop": 507008,
+			"trim_end": 2523015
+		},
+		{
+            "track_number": 24,
+            "title": "Cave",
+			"file": "HM1\\Scattle - Flatline.mp3",
+			"trim_start": 1273519,
+			"loop": 1273519,
+			"trim_end": 5504662
+		},
+		{
+            "track_number": 25,
+            "title": "Zelda's Rescue",
+			"file": "HM1\\Coconuts - Silver Lights.mp3",
+			"loop": 1665596,
+			"trim_end": 3875208
+		},
+		{
+            "track_number": 26,
+            "title": "Crystal Cutscene",
+			"file": "HM1\\Coconuts - Silver Lights.mp3",
+			"loop": 1665596,
+			"trim_end": 3875208
+		},
+		{
+            "track_number": 27,
+            "title": "Fairy Fountain",
+			"file": "HM2\\09 Guided Meditation.flac",
+			"trim_start": 493901,
+			"loop": 493901,
+			"trim_end": 1916246
+		},
+		{
+            "track_number": 28,
+            "title": "Aga 1 Theme",
+			"file": "HM2\\31 Run.flac",
+			"trim_start": 6578281,
+			"loop": 6601124,
+			"trim_end": 7540405
+		},
+		{
+            "track_number": 30,
+            "title": "Ganon Theme",
+			"file": "HM2\\19 In The Face Of Evil.flac",
+			"loop": 138550,
+			"trim_end": 726532,
+			"normalization": -31
+		},
+		{
+            "track_number": 31,
+            "title": "Ganon Fight",
+			"file": "HM2\\19 In The Face Of Evil.flac",
+			"sub_tracks": [
+				{
+					"trim_start": 1112505,
+					"trim_end": 7056749
+				},
+				{
+					"trim_start": 7056749,
+					"loop": 7056749,
+					"trim_end": 9408725
+				}
+			]
+		},
+		{
+            "track_number": 32,
+            "title": "Triforce Room",
+			"file": "HM1\\Jasper Byrne - Miami.mp3",
+			"trim_start": 2674735,
+			"loop": 2674735,
+			"trim_end": 4902897
+		},
+		{
+            "track_number": 33,
+            "title": "Ending Theme",
+			"file": "HM2\\18 Around.flac",
+			"sub_tracks": [
+				{
+					"trim_end": 6138042
+				},
+				{
+					"trim_start": 3419016,
+					"trim_end": 10224613
+				}
+			]
+		},
+		{
+            "track_number": 34,
+            "title": "Credits",
+			"file": "HM2\\35 The Way Home.flac",
+			"trim_start": 902906
+		},
+		{
+            "track_number": 35,
+            "title": "Eastern",
+			"file": "HM1\\Eirik Suhrke - A New Morning.mp3",
+			"loop": 34224,
+			"trim_end": 6288740
+		},
+		{
+            "track_number": 36,
+            "title": "Desert",
+			"file": "HM2\\33 Hotline Theme.flac",
+			"loop": 3629214,
+			"trim_end": 6531021
+		},
+		{
+            "track_number": 37,
+            "title": "Aga Tower",
+			"file": "HM2\\31 Run.flac",
+			"trim_start": 1881554,
+			"loop": 940970,
+			"trim_end": 2822552
+		},
+		{
+            "track_number": 38,
+            "title": "Swamp",
+			"file": "HM1\\Scattle - Inner Animal.mp3",
+			"loop": 1564437,
+			"trim_end": 5728632
+		},
+		{
+            "track_number": 39,
+            "title": "Palace of Darkness",
+			"file": "HM2\\06 Dust.flac",
+			"loop": 4234402,
+			"trim_end": 12278274
+		},
+		{
+            "track_number": 40,
+            "title": "Misery Mire",
+			"file": "HM2\\39 Le Perv.flac"
+		},
+		{
+            "track_number": 41,
+            "title": "Skull Woods",
+			"file": "HM2\\11 Divide.flac",
+			"trim_start": 195791,
+			"loop": 195791,
+			"trim_end": 4116261
+		},
+		{
+            "track_number": 42,
+            "title": "Ice",
+			"file": "HM2\\29 Roller Mobster.flac",
+			"loop": 2020024,
+			"trim_end": 9452885
+		},
+		{
+            "track_number": 43,
+            "title": "Hera",
+			"file": "HM1\\M_O_O_N - Hydrogen.mp3",
+			"loop": 6723865,
+			"trim_end": 10083864
+		},
+		{
+            "track_number": 44,
+            "title": "Thieves Town",
+			"file": "HM2\\17 New Wave Hookers.flac",
+			"loop": 7056044,
+			"trim_end": 9172749
+		},
+		{
+            "track_number": 45,
+            "title": "Turtle Rock",
+			"file": "HM2\\28 Bloodline.flac",
+			"trim_end": 8164119
+		},
+		{
+            "track_number": 46,
+            "title": "Ganon's Tower 1",
+			"file": "HM2\\49 Escape From Midwitch Valley.flac",
+			"trim_start": 863301,
+			"loop": 3455392,
+			"trim_end": 7559354
+		},
+		{
+            "track_number": 49,
+            "title": "Aga Tower",
+			"file": "HM2\\31 Run.flac",
+			"trim_start": 8422517,
+			"loop": 8467343,
+			"trim_end": 10348981
+		},
+		{
+            "track_number": 58,
+            "title": "Aga 2",
+			"file": "HM2\\49 Escape From Midwitch Valley.flac",
+			"trim_start": 14147599,
+			"loop": 15875481,
+			"trim_end": 16522489
+		},
+		{
+            "track_number": 59,
+            "title": "Ganon's Tower 2",
+			"file": "HM2\\49 Escape From Midwitch Valley.flac",
+			"trim_start": 7532522,
+			"loop": 7559218,
+			"trim_end": 14147514
+		}
+	]
+}

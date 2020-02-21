@@ -1,0 +1,244 @@
+{
+    "$schema": "https://raw.githubusercontent.com/qwertymodo/msupcmplusplus/master/configs/schema#",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "pack": "Orchestral Fantasy",
+	"url": "https://www.patreon.com/OrchestralFantasy",
+    "normalization": -21,
+    "output_prefix": "OF",
+	"sample_rate": 44100,
+    "tracks": [
+        {
+            "track_number": 1,
+            "title": "Opening Theme",
+			"file": "OrchestralFantasy MP3\\2-01. Orchestral Fantasy - FF4 - Prologue.mp3",
+			"trim_end": 862883,
+			"fade_out": 150000
+		},
+		{
+            "track_number": 2,
+            "title": "Light World Overworld",
+			"file": "OrchestralFantasy MP3\\2-06. Orchestral Fantasy - Chrono Trigger - Wind Scene.mp3",
+			"loop": 71970,
+			"trim_end": 4118038
+		},
+		{
+            "track_number": 3,
+            "title": "Rain State Overworld",
+			"file": "OrchestralFantasy MP3\\1-01. Orchestral Fantasy - Zelda 3 - Intro.mp3",
+			"loop": 1800391,
+			"trim_end": 3887841
+		},
+		{
+            "track_number": 4,
+            "title": "Bunny Overworld",
+			"file": "OrchestralFantasy MP3\\2-11. Orchestral Fantasy - FF4 - Land of Dwarves.mp3",
+			"loop": 1147027,
+			"trim_end": 3263886
+		},
+		{
+            "track_number": 5,
+            "title": "Lost Woods",
+			"file": "OrchestralFantasy MP3\\1-11. Orchestral Fantasy - Zelda 3 - Forest of Mystery.mp3",
+			"loop": 610188,
+			"trim_end": 1506920,
+			"normalization": -25
+		},
+		{
+            "track_number": 6,
+            "title": "Prologue",
+			"file": "OrchestralFantasy MP3\\1-01. Orchestral Fantasy - Zelda 3 - Intro.mp3",
+			"loop": 1800391,
+			"trim_end": 3887841
+		},
+		{
+            "track_number": 7,
+            "title": "Kakariko",
+			"file": "OrchestralFantasy MP3\\1-15. Orchestral Fantasy - Zelda 3 - Kakariko Village.mp3",
+			"loop": 1954424,
+			"trim_end": 5902932
+		},
+		{
+            "track_number": 9,
+            "title": "Dark World Overworld",
+			"file": "OrchestralFantasy MP3\\1-06. Orchestral Fantasy - Zelda 3 - Dark Golden World.mp3",
+			"loop": 31988,
+			"trim_end": 2663488
+		},
+		{
+            "track_number": 10,
+			"title": "Pull Pedestal",
+			"file": "OrchestralFantasy MP3\\Mega Man 2 Intro.mp3",
+			"trim_start": 2018071,
+			"trim_end": 2503289,
+			"fade_out": 100000
+		},
+		{
+            "track_number": 11,
+            "title": "File Select",
+			"file": "OrchestralFantasy MP3\\Terranigma - Elle.mp3",
+			"loop": 355837,
+			"trim_end": 3428681
+		},
+		{
+            "track_number": 12,
+            "title": "Guards Summoned",
+			"file": "OrchestralFantasy MP3\\1-17. Orchestral Fantasy - Secret of Mana - Meridian Dance.mp3",
+			"loop": 495508,
+			"trim_end": 5047283
+		},
+		{
+            "track_number": 13,
+            "title": "Dark Death Mountain",
+			"file": "OrchestralFantasy MP3\\2-07. Orchestral Fantasy - FF6 - Phantom Forest.mp3",
+			"loop": 1867511,
+			"trim_end": 5704232
+		},
+		{
+            "track_number": 14,
+            "title": "Minigame",
+			"file": "OrchestralFantasy MP3\\Gnat Attack Level 1 - Gypsy Jazz.mp3",
+			"loop": 668858,
+			"trim_end": 3290037
+		},
+		{
+            "track_number": 15,
+            "title": "Skull Woods Overworld",
+			"file": "OrchestralFantasy MP3\\FF4 - Red Wings.mp3",
+			"loop": 2901424,
+			"trim_end": 5514298
+		},
+		{
+            "track_number": 16,
+            "title": "Castle",
+			"file": "OrchestralFantasy MP3\\FF1 - Undersea Shrine.mp3",
+			"loop": 1579896,
+			"trim_end": 4401901
+        },
+		{
+            "track_number": 17,
+            "title": "Light World Dungeon",
+			"file": "OrchestralFantasy MP3\\1-13. Orchestral Fantasy - FF4 - Main Theme.mp3",
+			"loop": 1062973,
+			"trim_end": 4389410
+        },
+		{
+            "track_number": 18,
+            "title": "Cave",
+			"file": "OrchestralFantasy MP3\\Chrono Trigger - Silent Light.mp3",
+			"loop": 471392,
+			"trim_end": 3118606
+		},
+		{
+            "track_number": 19,
+            "title": "Boss Victory",
+			"file": "OrchestralFantasy MP3\\Mega Man 2 Intro.mp3",
+			"trim_start": 2018071,
+			"trim_end": 2459351,
+			"fade_out": 100000
+		},
+		{
+            "track_number": 20,
+            "title": "Sanctuary",
+			"file": "OrchestralFantasy MP3\\FF6 - Coin Song.mp3",
+			"loop": 311722,
+			"trim_end": 4237396
+		},
+		{
+            "track_number": 21,
+            "title": "Boss",
+			"file": "OrchestralFantasy MP3\\1-03. Orchestral Fantasy - Lufia - Boss Battle.mp3",
+			"loop": 1928531,
+			"trim_end": 4671303
+		},
+		{
+            "track_number": 22,
+            "title": "Dark World Dungeon",
+			"file": "OrchestralFantasy MP3\\1-02. Orchestral Fantasy - FF6 - Searching for Friends.mp3",
+			"loop": 2010085,
+			"trim_end": 5142952
+		},
+		{
+            "track_number": 23,
+            "title": "Shop/Fortune Teller",
+			"file": "OrchestralFantasy MP3\\Secret of Mana - Tell A Strange Tale.mp3",
+			"loop": 670810,
+			"trim_end": 3457499
+        },
+		{
+            "track_number": 24,
+            "title": "Cave",
+			"file": "OrchestralFantasy MP3\\Chrono Trigger - Silent Light.mp3",
+			"loop": 471392,
+			"trim_end": 3118606
+		},
+		{
+            "track_number": 25,
+            "title": "Zelda's Rescue",
+			"file": "OrchestralFantasy MP3\\Zelda_s Rescue.mp3",
+			"loop": 1502801,
+			"trim_end": 3361452
+		},
+		{
+            "track_number": 26,
+            "title": "Crystal Cutscene",
+			"file": "OrchestralFantasy MP3\\Zelda_s Rescue.mp3",
+			"loop": 1502801,
+			"trim_end": 3361452
+        },
+		{
+            "track_number": 27,
+            "title": "Fairy",
+			"file": "OrchestralFantasy MP3\\Terranigma - Elle.mp3",
+			"loop": 355837,
+			"trim_end": 3428681
+		},
+		{
+            "track_number": 28,
+            "title": "Agahnim's Theme",
+			"file": "OrchestralFantasy MP3\\FF5 - The Ancient Library.mp3",
+			"loop": 151719,
+			"trim_end": 3235812
+        },
+		{
+            "track_number": 29,
+            "title": "Ganon Appears",
+			"file": "OrchestralFantasy MP3\\2-09. Orchestral Fantasy - Chrono Trigger Medley.mp3",
+			"trim_end": 370665,
+			"fade_out": 100000
+		},
+		{
+            "track_number": 30,
+            "title": "Drop Into Ganon",
+			"file": "OrchestralFantasy MP3\\FF5 - The Ancient Library.mp3",
+			"loop": 151719,
+			"trim_end": 3235812
+		},
+		{
+            "track_number": 31,
+            "title": "Ganon Fight",
+			"file": "OrchestralFantasy MP3\\FF4 - The Dreadful Fight.mp3",
+			"loop": 1596133,
+			"trim_end": 5318560
+		},
+		{
+            "track_number": 32,
+            "title": "Triforce Room",
+			"file": "OrchestralFantasy MP3\\Zelda_s Rescue.mp3",
+			"loop": 1502801,
+			"trim_end": 3361452
+		},
+		{
+            "track_number": 33,
+			"title": "Ending Sequence",
+			"file": "OrchestralFantasy MP3\\1-07. Orchestral Fantasy - FF4 - Theme of Love.mp3",
+			"trim_start": 3759409,
+			"trim_end": 13747371
+		},
+		{
+            "track_number": 34,
+			"title": "Credits",
+			"file": "OrchestralFantasy MP3\\2-17. Orchestral Fantasy - Zelda 3 - Credits.mp3",
+			"trim_start": 332265
+		}
+    ]
+}

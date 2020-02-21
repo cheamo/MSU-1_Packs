@@ -1,0 +1,219 @@
+{
+    "$schema": "https://raw.githubusercontent.com/qwertymodo/msupcmplusplus/master/configs/schema#",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "pack": "Celeste B-Sides",
+	"url": "https://store.steampowered.com/bundle/11263/Celeste__OST/?snr=1_7_15__13",
+	"url2": "https://radicaldreamland.bandcamp.com/album/celeste-madelines-grab-bag",
+    "normalization": -21,
+    "output_prefix": "celeste",
+	"sample_rate": 44100,
+    "tracks": [
+		{
+            "track_number": 2,
+            "title": "Light World Overworld",
+			"file": "Celeste B-Sides\\Maxo - Celeste B-Sides - 01 Forsaken City (Sever the Skyline Mix).flac",
+			"loop": 465230,
+			"trim_end": 6047979
+		},
+		{
+            "track_number": 4,
+            "title": "Bunny Overworld",
+			"file": "Celeste B-Sides\\Ben Prunty - Celeste B-Sides - 02 Old Site (Black Moonrise Mix).flac",
+			"trim_start": 1446230,
+			"loop": 1446230,
+			"trim_end": 3978322
+		},
+		{
+            "track_number": 9,
+            "title": "Dark World Overworld",
+			"file": "Celeste B-Sides\\Ben Prunty - Celeste B-Sides - 02 Old Site (Black Moonrise Mix).flac",
+			"trim_start": 4340531,
+			"loop": 4340531,
+			"trim_end": 8683022
+		},
+		{
+            "track_number": 10,
+            "title": "Pull Pedestal",
+			"sub_tracks": [
+				{
+					"file": "Celeste - Grab Bag\\Lena Raine - Celeste - Madeline's Grab Bag - 17 Chapter Complete - Ascending B-Sides.flac",
+					"trim_start": 3085,
+					"trim_end": 279341
+				},
+				{
+					"file": "Celeste - Grab Bag\\Lena Raine - Celeste - Madeline's Grab Bag - 18 Chapter Complete - B-Sides.flac",
+					"trim_start": 401
+				}
+			],
+			"trim_end": 638852,
+			"fade_out": 100000
+		},
+		{
+            "track_number": 13,
+            "title": "Dark Death Mountain",
+			"file": "Celeste B-Sides\\Matthewせいじ - Celeste B-Sides - 08 The Core (Say Goodbye Mix).flac",
+			"trim_start": 926394,
+			"loop": 1866926,
+			"trim_end": 2807049
+		},
+		{
+            "track_number": 14,
+            "title": "MiniGame",
+			"file": "Celeste B-Sides\\Lena Raine - Celeste B-Sides - 09 (Bonus) Area 1 Demo.flac",
+			"loop": 1499982,
+			"trim_end": 2943267
+		},
+		{
+            "track_number": 17,
+            "title": "Light World Dungeon",
+			"file": "Celeste B-Sides\\Christa Lee - Celeste B-Sides - 03 Celestial Resort (Good Karma Mix).flac",
+			"loop": 288141,
+			"trim_end": 9057672
+        },
+		{
+            "track_number": 19,
+            "title": "Boss Victory",
+			"file": "Celeste - Grab Bag\\Lena Raine - Celeste - Madeline's Grab Bag - 18 Chapter Complete - B-Sides.flac",
+			"fade_out": 115000,
+			"trim_end": 442322,
+			"normalization": -28
+		},
+		{
+            "track_number": 21,
+            "title": "Boss",
+			"file": "Celeste B-Sides\\Lena Raine - Celeste B-Sides - 09 (Bonus) Area 1 Demo.flac",
+			"loop": 1499982,
+			"trim_end": 2943267
+		},
+		{
+            "track_number": 22,
+            "title": "Dark World Dungeon",
+			"file": "Celeste B-Sides\\2 Mello - Celeste B-Sides - 05 Mirror Temple (Mirror Magic Mix).flac",
+			"loop": 1711320,
+			"trim_end": 10262291
+		},
+		{
+            "track_number": 35,
+            "title": "Eastern Palace",
+			"file": "Celeste B-Sides\\Christa Lee - Celeste B-Sides - 03 Celestial Resort (Good Karma Mix).flac",
+			"loop": 288141,
+			"trim_end": 9057672
+        },
+		{
+            "track_number": 36,
+            "title": "Desert Palace",
+			"file": "Celeste B-Sides\\Christa Lee - Celeste B-Sides - 03 Celestial Resort (Good Karma Mix).flac",
+			"loop": 288141,
+			"trim_end": 9057672
+        },
+		{
+            "track_number": 38,
+            "title": "Swamp Palace Dungeon",
+			"file": "Celeste B-Sides\\2 Mello - Celeste B-Sides - 05 Mirror Temple (Mirror Magic Mix).flac",
+			"loop": 1711320,
+			"trim_end": 10262291
+		},
+		{
+            "track_number": 39,
+			"title": "Palace of Darkness Dungeon",
+			"file": "Celeste B-Sides\\2 Mello - Celeste B-Sides - 05 Mirror Temple (Mirror Magic Mix).flac",
+			"loop": 1711320,
+			"trim_end": 10262291
+		},
+		{
+            "track_number": 40,
+            "title": "Misery Mire Dungeon",
+			"file": "Celeste B-Sides\\Jukio Kallio - Celeste B-Sides - 06 Reflection (Center of the Earth Mix).flac",
+			"loop": 1283157,
+			"trim_end": 5131617
+		},
+		{
+            "track_number": 42,
+            "title": "Ice Palace Dungeon",
+			"file": "Celeste B-Sides\\in love with a ghost - Celeste B-Sides - 04 Golden Ridge (Golden Feather Mix).flac",
+			"loop": 7329950,
+			"trim_end": 11400860
+		},
+		{
+            "track_number": 43,
+            "title": "Tower of Hera",
+			"file": "Celeste B-Sides\\Christa Lee - Celeste B-Sides - 03 Celestial Resort (Good Karma Mix).flac",
+			"loop": 288141,
+			"trim_end": 9057672
+        },
+		{
+            "track_number": 44,
+            "title": "Thieves Town Dungeon",
+			"file": "Celeste B-Sides\\2 Mello - Celeste B-Sides - 05 Mirror Temple (Mirror Magic Mix).flac",
+			"loop": 1711320,
+			"trim_end": 10262291
+		},
+		{
+            "track_number": 45,
+            "title": "Turtle Rock Dungeon",
+			"file": "Celeste B-Sides\\Matthewせいじ - Celeste B-Sides - 08 The Core (Say Goodbye Mix).flac",
+			"trim_start": 2807660,
+			"loop": 2807660,
+			"trim_end": 9746113
+		},
+		{
+            "track_number": 46,
+            "title": "GT1",
+			"file": "Celeste B-Sides\\Kuraine - Celeste B-Sides - 07 Summit (No More Running Mix).flac",
+			"loop": 2825708,
+			"trim_end": 7059268,
+			"cross_fade": 10000
+		},
+		{
+            "track_number": 50,
+            "title": "Boss",
+			"file": "Celeste B-Sides\\Lena Raine - Celeste B-Sides - 09 (Bonus) Area 1 Demo.flac",
+			"loop": 1499982,
+			"trim_end": 2943267
+		},
+		{
+            "track_number": 51,
+            "title": "Boss",
+			"file": "Celeste B-Sides\\Lena Raine - Celeste B-Sides - 09 (Bonus) Area 1 Demo.flac",
+			"loop": 1499982,
+			"trim_end": 2943267
+		},
+		{
+            "track_number": 52,
+            "title": "Misery Mire Boss",
+			"file": "Celeste B-Sides\\Jukio Kallio - Celeste B-Sides - 06 Reflection (Center of the Earth Mix).flac",
+			"trim_start": 5131617,
+			"loop": 5131617,
+			"trim_end": 7697455
+		},
+		{
+            "track_number": 54,
+            "title": "Boss",
+			"file": "Celeste B-Sides\\Lena Raine - Celeste B-Sides - 09 (Bonus) Area 1 Demo.flac",
+			"loop": 1499982,
+			"trim_end": 2943267
+		},
+		{
+            "track_number": 56,
+            "title": "Boss",
+			"file": "Celeste B-Sides\\Lena Raine - Celeste B-Sides - 09 (Bonus) Area 1 Demo.flac",
+			"loop": 1499982,
+			"trim_end": 2943267
+		},
+		{
+            "track_number": 57,
+            "title": "Boss",
+			"file": "Celeste B-Sides\\Lena Raine - Celeste B-Sides - 09 (Bonus) Area 1 Demo.flac",
+			"loop": 1499982,
+			"trim_end": 2943267
+		},
+		{
+            "track_number": 59,
+            "title": "GT2",
+			"file": "Celeste B-Sides\\Kuraine - Celeste B-Sides - 07 Summit (No More Running Mix).flac",
+			"trim_start": 7059268,
+			"loop": 7059268,
+			"trim_end": 18700178
+		}
+    ]
+}

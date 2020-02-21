@@ -1,0 +1,524 @@
+{
+    "$schema": "https://raw.githubusercontent.com/qwertymodo/msupcmplusplus/master/configs/schema#",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "pack": "Celeste OST",
+	"url": "https://store.steampowered.com/bundle/11263/Celeste__OST/?snr=1_7_15__13",
+	"url2": "https://radicaldreamland.bandcamp.com/album/celeste-madelines-grab-bag",
+    "normalization": -21,
+    "output_prefix": "celeste",
+	"sample_rate": 44100,
+    "tracks": [
+        {
+            "track_number": 1,
+            "title": "Opening Theme",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 01 Prologue.mp3",
+			"trim_start": 2257716
+		},
+		{
+            "track_number": 2,
+            "title": "Light World Overworld",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 02 First Steps.mp3",
+			"loop": 2828292,
+			"trim_end": 5650689
+		},
+		{
+            "track_number": 3,
+            "title": "Rain State Overworld",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 04 Awake.mp3",
+			"loop": 31166,
+			"trim_end": 1530051
+		},
+		{
+            "track_number": 4,
+            "title": "Bunny Overworld",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 06 Checking In.mp3",
+			"loop": 2519150,
+			"trim_end": 3917220,
+			"normalization": -26
+		},
+		{
+            "track_number": 5,
+            "title": "Lost Woods",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 03 Resurrections.mp3",
+			"loop": 1161676,
+			"trim_end": 2337637
+		},
+		{
+            "track_number": 6,
+            "title": "Prologue",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 01 Prologue.mp3",
+			"loop": 125458,
+			"trim_end": 2148950,
+			"normalization": -32
+		},
+		{
+            "track_number": 7,
+            "title": "Kakariko",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 13 Madeline and Theo.mp3",
+			"trim_start": 2379847,
+			"loop": 3206711,
+			"trim_end": 6029120
+		},
+		{
+            "track_number": 8,
+            "title": "Portal",
+			"file": "Celeste - Grab Bag\\Kevin Regamey, Lena Raine - Celeste - Madeline's Grab Bag - 13 Madeline Levels Up.flac",
+			"pad_end": 10000,
+			"fade_out": 20000,
+			"trim_end": 90768
+		},
+		{
+            "track_number": 9,
+            "title": "Dark World Overworld",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 06 Checking In.mp3",
+			"trim_start": 3917220,
+			"loop": 4104729,
+			"trim_end": 11293856
+		},
+		{
+            "track_number": 10,
+            "title": "Pull Pedestal",
+			"sub_tracks": [
+				{
+					"file": "Celeste - Grab Bag\\Lena Raine - Celeste - Madeline's Grab Bag - 14 Chapter Complete - Ascending.flac",
+					"trim_end": 276246
+				},
+				{
+					"file": "Celeste - Grab Bag\\Lena Raine - Celeste - Madeline's Grab Bag - 15 Chapter Complete - Normal.flac"
+				}
+			],
+			"trim_end": 638852,
+			"fade_out": 20000
+		},
+		{
+            "track_number": 11,
+            "title": "File Select",
+			"file": "Celeste - Grab Bag\\mus_menu_levelselect_loop.ogg",
+			"trim_start": 138526,
+			"loop": 335505,
+			"trim_end": 3862663
+		},
+		{
+            "track_number": 12,
+            "title": "Guards Summoned",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 10 Anxiety.mp3",
+			"trim_start": 965920,
+			"loop": 965920,
+			"trim_end": 4489949
+		},
+		{
+            "track_number": 13,
+            "title": "Dark Death Mountain",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 17 Little Goth.mp3",
+			"loop": 2040499,
+			"trim_end": 7674682
+		},
+		{
+            "track_number": 14,
+            "title": "Minigame",
+			"file": "Celeste - Grab Bag\\Kevin Regamey - Celeste - Madeline's Grab Bag - 01 Forsaken City (8-Bit).flac",
+			"loop": 0,
+			"trim_end": 1881546,
+			"normalization": -26
+		},
+		{
+            "track_number": 15,
+            "title": "Skull Woods Overworld",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 03 Resurrections.mp3",
+			"trim_start": 11734843,
+			"loop": 12882288,
+			"trim_end": 14740561,
+			"fade_in": 20000
+		},
+		{
+            "track_number": 16,
+            "title": "Castle",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 04 Awake.mp3",
+			"trim_start": 1496915,
+			"loop": 1530051,
+			"trim_end": 5567364
+        },
+		{
+            "track_number": 17,
+            "title": "Light World Dungeon",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 08 Scattered and Lost.mp3",
+			"loop": 9072791,
+			"trim_end": 12529440
+        },
+		{
+            "track_number": 18,
+            "title": "Cave",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 13 Madeline and Theo.mp3",
+			"loop": 2651,
+			"trim_end": 2374513
+		},
+		{
+            "track_number": 19,
+            "title": "Boss Victory",
+			"file": "Celeste - Grab Bag\\Lena Raine - Celeste - Madeline's Grab Bag - 16 Chapter Complete - Summit.flac",
+			"fade_out": 125000,
+			"trim_end": 484217,
+			"normalization": -28
+		},
+		{
+            "track_number": 20,
+            "title": "Sanctuary",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 04 Awake.mp3",
+			"loop": 31166,
+			"trim_end": 1530051
+		},
+		{
+            "track_number": 21,
+            "title": "Boss",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 08 Scattered and Lost.mp3",
+			"fade_in": 30000,
+			"trim_start": 12504151,
+			"loop": 12529678,
+			"trim_end": 15122161
+		},
+		{
+            "track_number": 22,
+            "title": "Dark World Dungeon",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 18 Reach for the Summit.mp3",
+			"loop": 41758,
+			"trim_end": 21209758
+		},
+		{
+            "track_number": 23,
+            "title": "Shop/Fortune Teller",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 07 Spirit of Hospitality.mp3",
+			"loop": 2163926,
+			"trim_end": 2869893
+        },
+		{
+            "track_number": 24,
+            "title": "Cave",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 13 Madeline and Theo.mp3",
+			"loop": 2651,
+			"trim_end": 2374513
+		},
+		{
+            "track_number": 25,
+            "title": "Zelda's Rescue",
+			"file": "Celeste - Grab Bag\\Kevin Regamey, Lena Raine - Celeste - Madeline's Grab Bag - 12 Secret Shrine.flac",
+			"loop": 99462,
+			"trim_end": 3178342
+		},
+		{
+            "track_number": 26,
+            "title": "Crystal Cutscene",
+			"file": "Celeste - Grab Bag\\Kevin Regamey, Lena Raine - Celeste - Madeline's Grab Bag - 12 Secret Shrine.flac",
+			"loop": 99462,
+			"trim_end": 3178342
+        },
+		{
+            "track_number": 27,
+            "title": "Fairy",
+			"file": "Celeste - Grab Bag\\Kevin Regamey, Lena Raine - Celeste - Madeline's Grab Bag - 12 Secret Shrine.flac",
+			"loop": 99462,
+			"trim_end": 3178342
+		},
+		{
+            "track_number": 28,
+            "title": "Agahnim's Theme",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 09 Golden.mp3",
+			"trim_start": 12703216,
+			"loop": 12820706,
+			"trim_end": 15752982
+        },
+		{
+            "track_number": 29,
+            "title": "Ganon Appears",
+			"file": "Celeste - Grab Bag\\Lena Raine - Celeste - Madeline's Grab Bag - 10 Shattered Mirror.flac",
+			"trim_start": 481386
+		},
+		{
+            "track_number": 30,
+            "title": "Drop Into Ganon",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 18 Reach for the Summit.mp3",
+			"fade_in": 20000,
+			"trim_start": 18566388,
+			"loop": 19567156,
+			"trim_end": 20557236
+		},
+		{
+            "track_number": 31,
+            "title": "Ganon Fight",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 18 Reach for the Summit.mp3",
+			"trim_start": 22501144,
+			"loop": 23896530,
+			"trim_end": 27204000
+		},
+		{
+            "track_number": 32,
+            "title": "Triforce Room",
+			"file": "Celeste - Grab Bag\\Kevin Regamey, Lena Raine - Celeste - Madeline's Grab Bag - 12 Secret Shrine.flac",
+			"loop": 99462,
+			"trim_end": 3178342
+		},
+		{
+            "track_number": 33,
+			"title": "Ending Sequence",
+			"sub_tracks": [
+				{
+					"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 19 Exhale.mp3",
+					"trim_end": 94510
+				},
+				{
+					"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 19 Exhale.mp3",
+					"trim_start": 94510,
+					"trim_end": 459465
+				},
+				{
+					"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 19 Exhale.mp3",
+					"trim_start": 94510,
+					"trim_end": 459465
+				},
+				{
+					"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 19 Exhale.mp3",
+					"trim_start": 94510,
+					"trim_end": 3744204
+				},
+				{
+					"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 19 Exhale.mp3",
+					"trim_start": 459526,
+					"trim_end": 3744204
+				},
+				{
+					"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 19 Exhale.mp3",
+					"trim_start": 3744204
+				}
+			]
+		},
+		{
+            "track_number": 34,
+			"title": "Ending Sequence",
+			"sub_tracks": [
+				{
+					"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 21 My Dearest Friends.mp3",
+					"trim_end": 5192401
+				},
+				{
+					"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 21 My Dearest Friends.mp3",
+					"trim_start": 18253
+				}
+			]
+		},
+		{
+            "track_number": 35,
+            "title": "Eastern Palace",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 08 Scattered and Lost.mp3",
+			"loop": 9072791,
+			"trim_end": 12529440
+        },
+		{
+            "track_number": 36,
+            "title": "Desert Palace",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 08 Scattered and Lost.mp3",
+			"loop": 9072791,
+			"trim_end": 12529440
+        },
+		{
+            "track_number": 37,
+            "title": "Aga Tower",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 09 Golden.mp3",
+			"loop": 8508300,
+			"trim_end": 11314107
+		},
+		{
+            "track_number": 38,
+            "title": "Swamp Palace Dungeon",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 12 In the Mirror.mp3",
+			"loop": 16427773,
+			"trim_end": 18121070
+		},
+		{
+            "track_number": 39,
+			"title": "Palace of Darkness Dungeon",
+			"sub_tracks": 
+			[
+				{
+					"sub_channels": 
+					[
+						{
+							"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 11 Quiet and Falling.mp3",
+							"trim_end": 6776493,
+							"fade_out": 130000
+						},
+						{
+							"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 11 Quiet and Falling.mp3",
+							"pad_start": 6646493,
+							"fade_in": 130000,
+							"trim_start": 16851479,
+							"trim_end": 18673129,
+							"comment": "layer 2 starts 10204986"
+						}
+					]
+				},
+				{
+					"sub_channels": 
+					[
+						{
+							"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 11 Quiet and Falling.mp3",
+							"trim_start": 10205504,
+							"trim_end": 18673129
+						},
+						{
+							"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 11 Quiet and Falling.mp3",
+							"trim_start": 0,
+							"trim_end": 8467625
+						}
+					]
+				}
+			],
+			"loop": 10160398,
+			"trim_end": 16934612
+		},
+		{
+            "track_number": 40,
+            "title": "Misery Mire Dungeon",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 16 Confronting Myself.mp3",
+			"loop": 644047,
+			"trim_end": 5776418
+		},
+		{
+            "track_number": 41,
+            "title": "Skull Woods Dungeon",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 03 Resurrections.mp3",
+			"trim_start": 5862165,
+			"loop": 8805410,
+			"trim_end": 9980796,
+			"fade_in": 50000
+		},
+		{
+            "track_number": 42,
+            "title": "Ice Palace Dungeon",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 15 Reflection.mp3",
+			"loop": 10251450,
+			"trim_end": 10892889
+		},
+		{
+            "track_number": 43,
+            "title": "Tower of Hera",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 08 Scattered and Lost.mp3",
+			"loop": 9072791,
+			"trim_end": 12529440
+        },
+		{
+            "track_number": 44,
+            "title": "Thieves Town Dungeon",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 14 Starjump.mp3",
+			"loop": 54034,
+			"trim_end": 4026554,
+			"cross_fade": 420000
+		},
+		{
+            "track_number": 45,
+            "title": "Turtle Rock Dungeon",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 20 Heart of the Mountain.mp3",
+			"trim_start": 1574262,
+			"loop": 1574262,
+			"trim_end": 16195376,
+			"cross_fade": 420000
+		},
+		{
+            "track_number": 46,
+            "title": "Ganon's Tower 1",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 18 Reach for the Summit.mp3",
+			"loop": 41537,
+			"trim_end": 7979035
+		},
+		{
+            "track_number": 49,
+            "title": "Agahnim Fight",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 09 Golden.mp3",
+			"trim_start": 17068952,
+			"loop": 17355371,
+			"trim_end": 21589349
+        },
+		{
+            "track_number": 50,
+            "title": "Swamp Palace Boss",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 12 In the Mirror.mp3",
+			"fade_in": 10000,
+			"trim_start": 18544900,
+			"loop": 20000674,
+			"trim_end": 20424034
+		},
+		{
+            "track_number": 51,
+			"title": "Palace of Darkness Boss",
+			"sub_channels": 
+			[
+				{
+					"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 11 Quiet and Falling.mp3",
+					"trim_start": 6776150,
+					"loop": 8152324,
+					"trim_end": 9845955
+				},
+				{
+					"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 11 Quiet and Falling.mp3",
+					"trim_start": 10204986
+				}
+			],
+			"loop": 1376174,
+			"trim_end": 3069805
+		},
+		{
+            "track_number": 52,
+            "title": "Misery Mire Boss",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 16 Confronting Myself.mp3",
+			"trim_start": 5746069,
+			"loop": 5746069,
+			"trim_end": 10877762
+		},
+		{
+            "track_number": 53,
+            "title": "Skull Woods Boss",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 03 Resurrections.mp3",
+			"trim_start": 15534821,
+			"loop": 16361752,
+			"trim_end": 20142914
+		},
+		{
+            "track_number": 54,
+            "title": "Ice Palace Boss",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 15 Reflection.mp3",
+			"trim_start": 10892889,
+			"loop": 10892889,
+			"trim_end": 14741673
+		},
+		{
+            "track_number": 56,
+            "title": "Thieves Town Boss",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 14 Starjump.mp3",
+			"trim_start": 4026675,
+			"loop": 4026675,
+			"trim_end": 5436873
+		},
+		{
+            "track_number": 57,
+            "title": "Turtle Rock Boss",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 20 Heart of the Mountain.mp3",
+			"trim_start": 9271401,
+			"loop": 9320767,
+			"trim_end": 12284080
+		},
+		{
+            "track_number": 58,
+            "title": "Aga 2",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 18 Reach for the Summit.mp3",
+			"trim_start": 21185524,
+			"loop": 21209740,
+			"trim_end": 22532429
+		},
+		{
+            "track_number": 59,
+            "title": "Ganon's Tower 2",
+			"file": "Celeste OST\\Lena Raine - Celeste Original Soundtrack - 18 Reach for the Summit.mp3",
+			"trim_start": 7957643,
+			"loop": 7979035,
+			"trim_end": 18231941
+		}
+    ]
+}
